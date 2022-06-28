@@ -1,6 +1,6 @@
 Working Demo of site
 
-[Screenshot (333)](https://user-images.githubusercontent.com/57307495/149676500-120ed83a-ca7f-4782-9d1c-d62b4280b2ed.png)
+![Screenshot (333)](https://user-images.githubusercontent.com/57307495/149676500-120ed83a-ca7f-4782-9d1c-d62b4280b2ed.png)
 
 A photo gallery implemented using React and Firebase
 Here you can upload image and also view them in realtime.
